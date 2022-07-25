@@ -1,4 +1,4 @@
-## Survey System - Laravel 5.8 | MySQL
+## Front End Developer Coding task - ReactJs 18.2.0
 
 ### TECHNOLOGY
 
